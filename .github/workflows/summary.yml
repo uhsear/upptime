@@ -1,0 +1,14 @@
+name: summary CI
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: upptime/uptime-monitor@v1.39.1
+        with:
+          command: summary
+          token: ${{ secrets.GH_PAT || github.token }}

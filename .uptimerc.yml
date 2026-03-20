@@ -1,0 +1,33 @@
+owner: uhsear
+repo: upptime
+
+sites:
+  - name: Festival Planner
+    url: https://rave.asirkhan.com
+    expectedStatusCodes:
+      - 200
+  - name: API Health
+    url: https://rave.asirkhan.com/api/health
+    expectedStatusCodes:
+      - 200
+  - name: Privacy Policy
+    url: https://rave.asirkhan.com/privacy
+    expectedStatusCodes:
+      - 200
+
+status-website:
+  cname: status.asirkhan.com
+  name: Festival Planner Status
+  theme: dark
+  navbar:
+    - title: Status
+      href: /
+    - title: Festival Planner
+      href: https://rave.asirkhan.com
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  graphs: "0 0 * * *"
+  staticSite: "0 0 * * *"
+  summary: "0 0 * * *"
