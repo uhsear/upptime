@@ -4,7 +4,7 @@ on:
     - cron: "*/5 * * * *"
   workflow_dispatch:
 jobs:
-  update:
+  uptime:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
