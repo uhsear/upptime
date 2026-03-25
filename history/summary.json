@@ -4,53 +4,59 @@
     "url": "https://rave.asirkhan.com",
     "icon": "https://icons.duckduckgo.com/ip3/rave.asirkhan.com.ico",
     "slug": "festival-planner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 261,
-    "timeWeek": 260,
-    "timeMonth": 260,
-    "timeYear": 260,
-    "dailyMinutesDown": {}
+    "time": 261,
+    "timeDay": 263,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
+    "dailyMinutesDown": {
+      "2026-03-25": 0
+    }
   },
   {
     "name": "API Health",
     "url": "https://rave.asirkhan.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/rave.asirkhan.com.ico",
     "slug": "api-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 127,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
-    "dailyMinutesDown": {}
+    "time": 112,
+    "timeDay": 109,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
+    "dailyMinutesDown": {
+      "2026-03-25": 0
+    }
   },
   {
     "name": "Privacy Policy",
     "url": "https://rave.asirkhan.com/privacy",
     "icon": "https://icons.duckduckgo.com/ip3/rave.asirkhan.com.ico",
     "slug": "privacy-policy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 78,
-    "timeDay": 81,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 78,
-    "dailyMinutesDown": {}
+    "time": 79,
+    "timeDay": 82,
+    "timeWeek": 79,
+    "timeMonth": 79,
+    "timeYear": 79,
+    "dailyMinutesDown": {
+      "2026-03-25": 0
+    }
   }
 ]
