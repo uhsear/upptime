@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rave.asirkhan.com.ico",
     "slug": "festival-planner",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 263,
-    "timeWeek": 261,
-    "timeMonth": 261,
-    "timeYear": 261,
+    "uptime": "93.91%",
+    "uptimeDay": "68.81%",
+    "uptimeWeek": "93.91%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "93.91%",
+    "time": 260,
+    "timeDay": 255,
+    "timeWeek": 260,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2026-03-25": 0
+      "2026-03-26": 328,
+      "2026-03-25": 120
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rave.asirkhan.com.ico",
     "slug": "api-health",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 109,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "uptime": "93.91%",
+    "uptimeDay": "68.82%",
+    "uptimeWeek": "93.91%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "93.91%",
+    "time": 111,
+    "timeDay": 101,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2026-03-25": 0
+      "2026-03-26": 328,
+      "2026-03-25": 120
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rave.asirkhan.com.ico",
     "slug": "privacy-policy",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 82,
-    "timeWeek": 79,
-    "timeMonth": 79,
-    "timeYear": 79,
+    "uptime": "93.91%",
+    "uptimeDay": "68.82%",
+    "uptimeWeek": "93.91%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "93.91%",
+    "time": 78,
+    "timeDay": 77,
+    "timeWeek": 78,
+    "timeMonth": 78,
+    "timeYear": 78,
     "dailyMinutesDown": {
-      "2026-03-25": 0
+      "2026-03-26": 328,
+      "2026-03-25": 120
     }
   }
 ]
