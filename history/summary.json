@@ -1,8 +1,8 @@
 [
   {
     "name": "Festival Planner",
-    "url": "https://rave.asirkhan.com",
-    "icon": "https://icons.duckduckgo.com/ip3/rave.asirkhan.com.ico",
+    "url": "https://festie.us",
+    "icon": "https://icons.duckduckgo.com/ip3/festie.us.ico",
     "slug": "festival-planner",
     "status": "down",
     "uptime": "0.00%",
@@ -27,8 +27,8 @@
   },
   {
     "name": "API Health",
-    "url": "https://rave.asirkhan.com/api/health",
-    "icon": "https://icons.duckduckgo.com/ip3/rave.asirkhan.com.ico",
+    "url": "https://festie.us/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/festie.us.ico",
     "slug": "api-health",
     "status": "down",
     "uptime": "0.00%",
@@ -53,8 +53,8 @@
   },
   {
     "name": "Privacy Policy",
-    "url": "https://rave.asirkhan.com/privacy",
-    "icon": "https://icons.duckduckgo.com/ip3/rave.asirkhan.com.ico",
+    "url": "https://festie.us/privacy",
+    "icon": "https://icons.duckduckgo.com/ip3/festie.us.ico",
     "slug": "privacy-policy",
     "status": "down",
     "uptime": "0.00%",
