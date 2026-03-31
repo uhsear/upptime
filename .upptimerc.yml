@@ -3,15 +3,15 @@ repo: upptime
 
 sites:
   - name: Festival Planner
-    url: https://rave.asirkhan.com
+    url: https://festie.us
     expectedStatusCodes:
       - 200
   - name: API Health
-    url: https://rave.asirkhan.com/api/health
+    url: https://festie.us/api/health
     expectedStatusCodes:
       - 200
   - name: Privacy Policy
-    url: https://rave.asirkhan.com/privacy
+    url: https://festie.us/privacy
     expectedStatusCodes:
       - 200
 
@@ -23,7 +23,7 @@ status-website:
     - title: Status
       href: /
     - title: Festival Planner
-      href: https://rave.asirkhan.com
+      href: https://festie.us
 
 workflowSchedule:
   uptime: "*/5 * * * *"
