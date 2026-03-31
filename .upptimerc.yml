@@ -6,14 +6,20 @@ sites:
     url: https://festie.us
     expectedStatusCodes:
       - 200
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; UptimeMonitor/1.0; +https://github.com/uhsear/upptime)"
   - name: API Health
     url: https://festie.us/api/health
     expectedStatusCodes:
       - 200
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; UptimeMonitor/1.0; +https://github.com/uhsear/upptime)"
   - name: Privacy Policy
     url: https://festie.us/privacy
     expectedStatusCodes:
       - 200
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; UptimeMonitor/1.0; +https://github.com/uhsear/upptime)"
 
 status-website:
   cname: status.asirkhan.com
