@@ -1,7 +1,7 @@
 url: https://festie.us/api/health
-status: up
-code: 200
-responseTime: 66
-lastUpdated: 2026-05-02T16:49:45.778Z
+status: down
+code: 530
+responseTime: 9
+lastUpdated: 2026-05-02T17:32:47.054Z
 startTime: 2026-03-20T23:50:27.741Z
 generator: Upptime <https://github.com/upptime/upptime>
