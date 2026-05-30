@@ -1,7 +1,7 @@
 url: https://festie.us
-status: up
-code: 200
-responseTime: 238
-lastUpdated: 2026-05-30T16:34:48.750Z
+status: down
+code: 502
+responseTime: 255
+lastUpdated: 2026-05-30T16:58:54.710Z
 startTime: 2026-03-20T23:50:27.247Z
 generator: Upptime <https://github.com/upptime/upptime>
