@@ -4,16 +4,16 @@
     "url": "https://festie.us",
     "icon": "https://icons.duckduckgo.com/ip3/festie.us.ico",
     "slug": "festival-planner",
-    "status": "down",
-    "uptime": "89.46%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "89.46%",
+    "status": "up",
+    "uptime": "89.43%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "89.43%",
     "time": 235,
-    "timeDay": 140,
-    "timeWeek": 230,
-    "timeMonth": 329,
+    "timeDay": 202,
+    "timeWeek": 239,
+    "timeMonth": 328,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2026-04-02": 1362,
@@ -51,7 +51,7 @@
       "2026-05-25": 88,
       "2026-06-02": 41,
       "2026-08-11": 35,
-      "2026-11-07": 1
+      "2026-11-07": 100
     }
   },
   {
@@ -59,15 +59,15 @@
     "url": "https://festie.us/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/festie.us.ico",
     "slug": "api-health",
-    "status": "down",
-    "uptime": "89.46%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "89.46%",
+    "status": "up",
+    "uptime": "89.43%",
+    "uptimeDay": "93.05%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "89.43%",
     "time": 148,
-    "timeDay": 125,
-    "timeWeek": 175,
+    "timeDay": 140,
+    "timeWeek": 181,
     "timeMonth": 209,
     "timeYear": 148,
     "dailyMinutesDown": {
@@ -106,7 +106,7 @@
       "2026-05-25": 88,
       "2026-06-02": 41,
       "2026-08-11": 35,
-      "2026-11-07": 1
+      "2026-11-07": 100
     }
   },
   {
@@ -114,15 +114,15 @@
     "url": "https://festie.us/privacy",
     "icon": "https://icons.duckduckgo.com/ip3/festie.us.ico",
     "slug": "privacy-policy",
-    "status": "down",
-    "uptime": "89.46%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "89.46%",
+    "status": "up",
+    "uptime": "89.43%",
+    "uptimeDay": "93.06%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "89.43%",
     "time": 131,
-    "timeDay": 123,
-    "timeWeek": 170,
+    "timeDay": 145,
+    "timeWeek": 173,
     "timeMonth": 278,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -161,7 +161,7 @@
       "2026-05-25": 88,
       "2026-06-02": 41,
       "2026-08-11": 35,
-      "2026-11-07": 1
+      "2026-11-07": 100
     }
   }
 ]
